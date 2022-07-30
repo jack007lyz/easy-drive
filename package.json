@@ -23,6 +23,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.4.3",
     "morgan": "~1.9.1",
+    "start": "^5.1.0",
     "uuidv4": "^6.2.13"
   }
 }
