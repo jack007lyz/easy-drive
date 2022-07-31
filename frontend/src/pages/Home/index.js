@@ -35,11 +35,6 @@ const Home = () => {
                 <div ref={instructions} className="sectionTwo">
                     <FollowInstructions />
                 </div>
-
-                <div ref={ourteam} className="sectionFive">
-                    <OurTeam />
-                </div>
-
                 <div ref={topinstructors} className="sectionThree">
                     <TopRecommended />
                 </div>

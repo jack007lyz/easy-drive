@@ -1,6 +1,7 @@
 .sectionTabs {
     display: flex;
-    margin-left: 3%;
+    padding-left: 3%;
+    background-color: #fff;
 }
 
 .section_title {
@@ -25,20 +26,21 @@
     }
 }
 
-.sectionTwo,
-.sectionThree,
-.sectionFour,
-.sectionFive,
-.sectionSix {
-    margin: 10rem auto;
-}
-
-.sectionTwo,
-.sectionThree,
-.sectionFour{
-    padding: 10rem auto;
-}
 
 .sectionFive{
-    padding: 10rem 7rem;
+    padding-top: 5rem;
+    border-top: 3px solid #FFB000;
+}
+
+.sectionSix {
+    background-color: #fff;
+    padding: 6rem auto;
+    margin-top: 10rem;
+    border-top: 3px solid #FFB000;
+}
+
+.sectionThree,
+.sectionFour {
+    background-color: #fff;
+    padding: 20rem auto;
 }
